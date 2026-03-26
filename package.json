@@ -1,0 +1,18 @@
+{
+  "name": "casino-smr",
+  "version": "1.0.0",
+  "description": "Casino online con SMR Coins - Ruleta, Tragaperras y Blackjack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "SMR Casino",
+  "license": "MIT"
+}
